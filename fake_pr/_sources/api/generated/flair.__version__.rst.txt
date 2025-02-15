@@ -1,6 +1,0 @@
-﻿flair.\_\_version\_\_
-=====================
-
-.. currentmodule:: flair
-
-.. autodata:: __version__

@@ -1,6 +1,0 @@
-﻿flair.datasets.biomedical.DISEASE\_TAG
-======================================
-
-.. currentmodule:: flair.datasets.biomedical
-
-.. autodata:: DISEASE_TAG

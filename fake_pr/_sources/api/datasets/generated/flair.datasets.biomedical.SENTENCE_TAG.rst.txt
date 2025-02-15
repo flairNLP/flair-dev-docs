@@ -1,6 +1,0 @@
-﻿flair.datasets.biomedical.SENTENCE\_TAG
-=======================================
-
-.. currentmodule:: flair.datasets.biomedical
-
-.. autodata:: SENTENCE_TAG

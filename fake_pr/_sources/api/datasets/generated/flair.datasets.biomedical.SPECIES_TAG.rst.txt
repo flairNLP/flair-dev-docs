@@ -1,6 +1,0 @@
-﻿flair.datasets.biomedical.SPECIES\_TAG
-======================================
-
-.. currentmodule:: flair.datasets.biomedical
-
-.. autodata:: SPECIES_TAG
