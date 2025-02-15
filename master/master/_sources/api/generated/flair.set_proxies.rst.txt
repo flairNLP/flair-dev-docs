@@ -1,6 +1,0 @@
-﻿flair.set\_proxies
-==================
-
-.. currentmodule:: flair
-
-.. autofunction:: set_proxies

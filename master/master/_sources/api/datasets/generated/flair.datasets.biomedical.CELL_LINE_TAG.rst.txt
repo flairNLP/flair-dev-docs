@@ -1,6 +1,0 @@
-﻿flair.datasets.biomedical.CELL\_LINE\_TAG
-=========================================
-
-.. currentmodule:: flair.datasets.biomedical
-
-.. autodata:: CELL_LINE_TAG

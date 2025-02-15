@@ -1,6 +1,0 @@
-﻿flair.datasets.biomedical.merge\_datasets
-=========================================
-
-.. currentmodule:: flair.datasets.biomedical
-
-.. autofunction:: merge_datasets

@@ -1,6 +1,0 @@
-﻿flair.cache\_root
-=================
-
-.. currentmodule:: flair
-
-.. autodata:: cache_root
