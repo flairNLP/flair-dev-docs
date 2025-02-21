@@ -1,6 +1,0 @@
-﻿flair.data.\_len\_dataset
-=========================
-
-.. currentmodule:: flair.data
-
-.. autofunction:: _len_dataset

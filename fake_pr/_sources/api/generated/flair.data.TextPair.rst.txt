@@ -1,6 +1,0 @@
-﻿flair.data.TextPair
-===================
-
-.. currentmodule:: flair.data
-
-.. autodata:: TextPair
