@@ -1,6 +1,0 @@
-﻿flair.data.DT
-=============
-
-.. currentmodule:: flair.data
-
-.. autodata:: DT

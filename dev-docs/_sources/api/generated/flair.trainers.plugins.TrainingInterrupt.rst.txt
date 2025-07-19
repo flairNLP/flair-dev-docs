@@ -1,6 +1,0 @@
-﻿flair.trainers.plugins.TrainingInterrupt
-========================================
-
-.. currentmodule:: flair.trainers.plugins
-
-.. autoexception:: TrainingInterrupt
